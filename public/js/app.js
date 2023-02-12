@@ -1,11 +1,5 @@
 //const forecast = require("../../src/utils/forecast")
 
-console.log('Client side javascript works')
-
-
-
-
-
 
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
