@@ -9,7 +9,7 @@ const forecast = (latitude, longitude, callback) => {
         } else if (body.error) {
             callback('Coordinate error try with differnt coordinate', undefined)
         } else {
-            callback(undefined, body.current.weather_descriptions[0] + '. It is currently ' + body.current.temperature + ' feels like ' + body.current.feelslike)
+            callback(undefined, body.current.weather_descriptions[0] + '. It is currently ' + body.current.temperature + ', and feels like ' + body.current.feelslike + '.With a wind speed of ' + body.current.wind_speed + '. And a visibility of ' + body.current.visibility + '. Have a great day.')
         }
     })
 
