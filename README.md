@@ -1,5 +1,9 @@
 Alternatively, you can access the deployed version of this website at [https://weather-application-3pfw.onrender.com/](https://weather-application-3pfw.onrender.com/).
 
+## Landing Page
+
+![Screenshot from 2023-06-08 00-02-55](https://github.com/SHREYK213/Wether_Website/assets/98221778/26e8c780-abc6-4577-9601-f441ace2c45c)
+
 # Weather Website
 
 This is a Node.js application that provides weather information based on user input.
@@ -54,6 +58,10 @@ npm start
 
 Contributions are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
 
+![Screenshot from 2023-06-08 00-02-36](https://github.com/SHREYK213/Wether_Website/assets/98221778/aaec9b24-9a34-46eb-9151-38e58f1f5378)
+
+
+![Screenshot from 2023-06-08 00-02-58](https://github.com/SHREYK213/Wether_Website/assets/98221778/136d0cba-1c38-4f0e-a357-e87841c7bf70)
 
 
 
